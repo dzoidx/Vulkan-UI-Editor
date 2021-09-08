@@ -1,0 +1,305 @@
+2021-09-08 06:28:28.312 [52116] DEBUG [Core] Engine init.
+2021-09-08 06:28:28.522 [52116] DEBUG [Core] WinMain
+2021-09-08 06:28:28.522 [52116] ERROR [Core] Asset list not found.
+2021-09-08 06:28:28.524 [52116] DEBUG [Core] InitInstance
+2021-09-08 06:28:28.756 [52116] DEBUG [Core] Family 0 Num queues: 16.
+2021-09-08 06:28:28.756 [52116] DEBUG [Core]     GFX Yes, Compute Yes, Transfer Yes, Sparse binding Yes.
+2021-09-08 06:28:28.756 [52116] DEBUG [Core] Using GFX device 0 and queue family 0.
+2021-09-08 06:28:28.756 [52116] DEBUG [Core] Family 0 Num queues: 16.
+2021-09-08 06:28:28.756 [52116] DEBUG [Core] Using transfer queue family 0.
+2021-09-08 06:28:28.912 [52116] DEBUG [Core] Device created.
+2021-09-08 06:28:29.044 [21772] DEBUG [Core] Scene change detected. frame=0,hash=684719655.
+2021-09-08 06:28:40.027 [21772] DEBUG [Core] Scene change detected. frame=660,hash=133868151.
+2021-09-08 06:28:43.527 [21772] ERROR [Core] WIN Error at CreateFile2 59. {
+"name": "demo",
+"nodes": [
+	{
+		"type": "image",
+		"color": "#000080ff",
+		"offset": {"x": 0, "y": 0},
+		"size": {"x": 0, "y": 0},
+		"pivot": {"x": 0, "y": 0},
+		"halign": "stretch",
+		"valign": "stretch",
+		"children": [
+			{
+				"type": "image",
+				"color": "#ff0000ff",
+				"offset": {"x": 1500, "y": 800},
+				"size": {"x": 1000, "y": 500},
+				"pivot": {"x": 0, "y": 0},
+				"halign": "left",
+				"valign": "top",
+				"mask": true,
+				"children": [
+					{
+						"type": "image",
+						"color": "#ffffffff",
+						"offset": {"x": 10, "y": 70},
+						"size": {"x": 1000, "y": 600},
+						"pivot": {"x": 0, "y": 0},
+						"halign": "left",
+						"valign": "top"
+					}
+				]
+			}
+		]
+	}
+]
+}660
+2021-09-08 06:28:43.528 [21772] DEBUG [Core] Scene change detected. frame=870,hash=0.
+2021-09-08 06:28:44.027 [21772] DEBUG [Core] Scene change detected. frame=900,hash=684719655.
+2021-09-08 06:28:53.028 [21772] DEBUG [Core] Scene change detected. frame=1440,hash=389926743.
+2021-09-08 06:29:01.528 [21772] DEBUG [Core] Scene change detected. frame=1950,hash=3092694509.
+2021-09-08 06:29:09.529 [21772] DEBUG [Core] Scene change detected. frame=2430,hash=133868151.
+2021-09-08 06:31:40.689 [21772] ERROR [Core] WIN Error at CreateFile2 59. {
+"name": "demo",
+"nodes": [
+	{
+		"type": "image",
+		"color": "#000080ff",
+		"offset": {"x": 0, "y": 0},
+		"size": {"x": 0, "y": 0},
+		"pivot": {"x": 0, "y": 0},
+		"halign": "stretch",
+		"valign": "stretch",
+		"children": [
+			{
+				"type": "image",
+				"color": "#ff0000ff",
+				"offset": {"x": 1500, "y": 800},
+				"size": {"x": 1000, "y": 500},
+				"pivot": {"x": 0, "y": 0},
+				"halign": "left",
+				"valign": "top",
+				"mask": true,
+				"children": [
+					{
+						"type": "image",
+						"color": "#ffffffff",
+						"offset": {"x": 10, "y": 70},
+						"size": {"x": 1000, "y": 600},
+						"pivot": {"x": 0, "y": 0},
+						"halign": "left",
+						"valign": "top"
+					}
+				]
+			}
+		]
+	}
+]
+}2430
+2021-09-08 06:31:40.689 [21772] DEBUG [Core] Scene change detected. frame=11490,hash=0.
+2021-09-08 06:31:41.190 [21772] DEBUG [Core] Scene change detected. frame=11520,hash=1377908030.
+2021-09-08 06:31:45.189 [21772] DEBUG [Core] Scene change detected. frame=11760,hash=133868151.
+2021-09-08 06:31:50.690 [21772] DEBUG [Core] Scene change detected. frame=12090,hash=2783196135.
+2021-09-08 06:31:59.690 [21772] DEBUG [Core] Scene change detected. frame=12630,hash=366326009.
+2021-09-08 06:32:06.691 [21772] DEBUG [Core] Scene change detected. frame=13050,hash=865161106.
+2021-09-08 06:32:12.691 [21772] DEBUG [Core] Scene change detected. frame=13410,hash=2057793052.
+2021-09-08 06:32:18.692 [21772] DEBUG [Core] Scene change detected. frame=13770,hash=366326009.
+2021-09-08 06:32:25.192 [21772] DEBUG [Core] Scene change detected. frame=14160,hash=2296217642.
+2021-09-08 06:32:29.192 [21772] DEBUG [Core] Scene change detected. frame=14400,hash=2308166132.
+2021-09-08 06:32:36.193 [21772] DEBUG [Core] Scene change detected. frame=14820,hash=1240066831.
+2021-09-08 06:32:49.194 [21772] DEBUG [Core] Scene change detected. frame=15600,hash=289690891.
+2021-09-08 06:32:58.694 [21772] DEBUG [Core] Scene change detected. frame=16170,hash=133868151.
+2021-09-08 06:33:30.197 [21772] ERROR [Core] WIN Error at CreateFile2 59. {
+"name": "demo",
+"nodes": [
+	{
+		"type": "image",
+		"color": "#000080ff",
+		"offset": {"x": 0, "y": 0},
+		"size": {"x": 0, "y": 0},
+		"pivot": {"x": 0, "y": 0},
+		"halign": "stretch",
+		"valign": "stretch",
+		"children": [
+			{
+				"type": "image",
+				"color": "#ff0000ff",
+				"offset": {"x": 1500, "y": 800},
+				"size": {"x": 1000, "y": 500},
+				"pivot": {"x": 0, "y": 0},
+				"halign": "left",
+				"valign": "top",
+				"mask": true,
+				"children": [
+					{
+						"type": "image",
+						"color": "#ffffffff",
+						"offset": {"x": 10, "y": 70},
+						"size": {"x": 1000, "y": 600},
+						"pivot": {"x": 0, "y": 0},
+						"halign": "left",
+						"valign": "top"
+					}
+				]
+			}
+		]
+	}
+]
+}16170
+2021-09-08 06:33:30.197 [21772] DEBUG [Core] Scene change detected. frame=18060,hash=0.
+2021-09-08 06:33:30.697 [21772] DEBUG [Core] Scene change detected. frame=18090,hash=3063312014.
+2021-09-08 06:33:37.197 [21772] DEBUG [Core] Scene change detected. frame=18480,hash=133868151.
+2021-09-08 06:33:47.698 [21772] DEBUG [Core] Scene change detected. frame=19110,hash=1377908030.
+2021-09-08 06:33:55.198 [21772] DEBUG [Core] Scene change detected. frame=19560,hash=956854632.
+2021-09-08 06:34:02.699 [21772] DEBUG [Core] Scene change detected. frame=20010,hash=2257517315.
+2021-09-08 06:34:05.199 [21772] DEBUG [Core] Scene change detected. frame=20160,hash=3712792606.
+2021-09-08 06:34:10.700 [21772] DEBUG [Core] Scene change detected. frame=20490,hash=1281394877.
+2021-09-08 06:34:16.201 [21772] DEBUG [Core] Scene change detected. frame=20820,hash=3712792606.
+2021-09-08 06:34:26.701 [21772] DEBUG [Core] Scene change detected. frame=21450,hash=31309838.
+2021-09-08 06:34:31.701 [21772] DEBUG [Core] Scene change detected. frame=21750,hash=3310565212.
+2021-09-08 06:34:39.702 [21772] DEBUG [Core] Scene change detected. frame=22230,hash=1019102498.
+2021-09-08 06:34:46.202 [21772] DEBUG [Core] Scene change detected. frame=22620,hash=4060529894.
+2021-09-08 06:34:56.702 [21772] DEBUG [Core] Scene change detected. frame=23250,hash=3926947430.
+2021-09-08 06:35:00.703 [21772] DEBUG [Core] Scene change detected. frame=23490,hash=4060529894.
+2021-09-08 06:35:07.703 [21772] DEBUG [Core] Scene change detected. frame=23910,hash=514196433.
+2021-09-08 06:35:10.704 [21772] DEBUG [Core] Scene change detected. frame=24090,hash=3204015359.
+2021-09-08 06:37:08.769 [52116] DEBUG [Core] Engine deinit.
+ "y": 0},
+		"pivot": {"x": 0, "y": 0},
+		"halign": "stretch",
+		"valign": "stretch",
+		"children": [
+			{
+				"type": "image",
+				"color": "#ff0000ff",
+				"offset": {"x": 1000, "y": 800},
+				"size": {"x": 1100, "y": 500},
+				"pivot": {"x": 0, "y": 0},
+				"halign": "left",
+				"valign": "top",
+				"mask": true,
+				"children": [
+					{
+						"type": "image",
+						"color": "#ffffffff",
+						"offset": {"x": 10, "y": 70},
+						"size": {"x": 1000, "y": 600},
+						"pivot": {"x": 0, "y": 0},
+						"halign": "right",
+						"valign": "top"
+					}
+				]
+			}
+		]
+	}
+]
+}8100
+2021-09-07 20:48:40.772 [42472] DEBUG [Core] Scene change detected. frame=8490,hash=0.
+2021-09-07 20:48:41.272 [42472] DEBUG [Core] Scene change detected. frame=8520,hash=3703792689.
+2021-09-07 20:48:46.272 [42472] DEBUG [Core] Scene change detected. frame=8820,hash=3470218461.
+2021-09-07 20:48:50.772 [42472] DEBUG [Core] Scene change detected. frame=9090,hash=2497465854.
+2021-09-07 20:49:16.775 [42472] ERROR [Core] WIN Error at CreateFile2 2774. {
+"name": "demo",
+"nodes": [
+	{
+		"type": "image",
+		"color": "#000080ff",
+		"offset": {"x": 0, "y": 0},
+		"size": {"x": 0, "y": 0},
+		"pivot": {"x": 0, "y": 0},
+		"halign": "stretch",
+		"valign": "stretch",
+		"children": [
+			{
+				"type": "image",
+				"color": "#ff0000ff",
+				"offset": {"x": 1000, "y": 800},
+				"size": {"x": 1100, "y": 500},
+				"pivot": {"x": 0, "y": 0},
+				"halign": "left",
+				"valign": "top",
+				"mask": true,
+				"children": [
+					{
+						"type": "image",
+						"color": "#ffffffff",
+						"offset": {"x": 10, "y": 70},
+						"size": {"x": 1000, "y": 600},
+						"pivot": {"x": 0, "y": 0},
+						"halign": "left",
+						"valign": "top"
+					}
+				]
+			}
+		]
+	}
+]
+}9090
+2021-09-07 20:49:16.775 [42472] DEBUG [Core] Scene change detected. frame=10650,hash=0.
+2021-09-07 20:49:17.275 [42472] DEBUG [Core] Scene change detected. frame=10680,hash=2192659825.
+2021-09-07 20:49:21.775 [42472] DEBUG [Core] Scene change detected. frame=10950,hash=2497465854.
+2021-09-07 20:49:41.276 [42472] DEBUG [Core] Scene change detected. frame=12120,hash=1449602495.
+2021-09-07 20:49:44.777 [42472] DEBUG [Core] Scene change detected. frame=12330,hash=684719655.
+2021-09-07 20:49:49.777 [42472] DEBUG [Core] Scene change detected. frame=12630,hash=451541951.
+2021-09-07 20:49:53.777 [42472] DEBUG [Core] Scene change detected. frame=12870,hash=684719655.
+2021-09-07 20:50:16.938 [38896] DEBUG [Core] Engine deinit.
+=1.
+2021-09-07 20:11:20.153 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:11:21.153 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:11:22.153 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:11:23.153 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:11:24.170 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:11:25.170 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:11:26.170 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:11:27.187 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:11:28.188 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:11:29.204 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:11:30.220 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:11:31.237 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:11:32.237 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:11:33.254 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:11:34.254 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:11:35.254 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:11:36.254 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:11:37.254 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:11:38.254 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:11:39.271 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:11:40.271 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:11:41.271 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:11:42.288 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:11:43.288 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:11:44.288 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:11:45.288 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:11:46.288 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:11:47.288 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:11:48.288 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:11:49.288 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:11:50.305 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:11:51.322 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:11:52.339 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:11:53.355 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:11:54.372 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:11:55.372 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:11:56.372 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:11:57.372 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:11:58.372 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:11:59.389 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:12:00.389 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:12:01.389 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:12:02.406 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:12:03.406 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:12:04.406 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:12:05.406 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:12:06.406 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:12:07.406 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:12:08.407 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:12:09.423 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:12:10.423 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:12:11.440 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:12:12.456 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:12:13.459 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:12:14.473 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:12:15.490 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:12:16.490 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:12:17.490 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:12:18.490 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:12:19.507 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:12:20.507 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:12:21.524 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:12:22.524 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:12:23.524 [47080] DEBUG [Core] Show white rect=1.
+2021-09-07 20:12:24.524 [47080] DEBUG [Core] Show white rect=0.
+2021-09-07 20:12:25.524 [47080] DEBUG [Core] Show white rect=1.
